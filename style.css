@@ -11,15 +11,7 @@ header {
     margin-bottom: 20px;
 }
 
-.button {
-    background-color: #36bbce;
-    color: black;
-    text-decoration: none;
-    padding: 15px;
-    font-size: 24px;
-    border-radius: 10px;
-    display: block;
-}
+
 
 nav {
     border-top: 5px solid white;
@@ -53,6 +45,7 @@ h1 {
     flex-wrap: wrap;
     max-width: 1100px;
     margin: 0 auto;
+    position: relative;
 }
 
 .post {
@@ -105,4 +98,17 @@ footer {
     right: fixed;
     border-radius: 10px;
     margin: 5px;
+}
+
+.logo {
+    height: 75px;
+    width: 110x;
+    margin-right: 40px;
+}
+
+.oli {
+       height: 75px;
+    width: 110x;
+    margin-left: 40px;
+
 }

@@ -121,6 +121,7 @@ footer {
 }
 .nav-link:hover{
     border: 5px solid green;
+     transition: 1s;
 
 
 }
@@ -128,12 +129,14 @@ footer {
 .article-but:hover{
     border: 10px double black; 
     background-color: grey;
+     transition: 1s;
 }
 
 .post-img:hover{
     background-color: grey;
     border: 10px double black; 
     opacity: 0.7;
+     transition: 1s;
 
 }
 
@@ -147,9 +150,12 @@ footer {
 logo:hover {
 opacity: 0.5;
  color: green;
+   
+    
 }
 
 oli:hover {
     opacity: 0.5;
  color: green;
+ 
 }

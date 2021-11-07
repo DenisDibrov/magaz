@@ -116,6 +116,7 @@ footer {
        height: 75px;
     width: 150x;
     margin-left: 40px;
+    
 
 }
 .nav-link:hover{
@@ -140,4 +141,15 @@ footer {
 
 .nav-link:visited{
     background-color: yellow;
+}
+
+
+logo:hover {
+opacity: 0.5;
+ color: green;
+}
+
+oli:hover {
+    opacity: 0.5;
+ color: green;
 }

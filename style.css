@@ -130,6 +130,7 @@ footer {
     border: 10px double black; 
     background-color: grey;
      transition: 1s;
+    position: fixed;
 }
 
 .post-img:hover{
@@ -137,6 +138,7 @@ footer {
     border: 10px double black; 
     opacity: 0.7;
      transition: 1s;
+    position: fixed;
 
 }
 

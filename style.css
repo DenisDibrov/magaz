@@ -126,7 +126,7 @@ footer {
 
 }
 
-.article-but:hover{
+.article-but:focus {
     border: 10px double black; 
     background-color: grey;
      transition: 1s;
